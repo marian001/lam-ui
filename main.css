@@ -189,115 +189,121 @@
   font-weight: 500;
   font-style: normal;
 }
+@font-face {
+  font-family: "AvenirLTPro";
+  src: url("css/fonts/AVENIR/AVENIR/Linotype - AvenirLTPro-Black.otf");
+  font-weight: 500;
+  font-style: normal;
+}
 /* Text styles */
 h1, .h1 {
-  font-family: "Mont Heavy", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Mont Heavy", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Kufi Arabic";
   color: #ffffff;
   font-weight: 900;
   font-size: 12vh;
   line-height: 0.92;
 }
 .i28n-he h1, .i28n-he .h1 {
-  font-family: "Rubik", "Mont Heavy", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Rubik", "Mont Heavy", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Kufi Arabic";
 }
 
 h2, .h2 {
-  font-family: "Mont Heavy", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Mont Heavy", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Kufi Arabic";
   color: #ffffff;
   font-weight: 900;
   font-size: 8vh;
   line-height: 0.88;
 }
 .i28n-he h2, .i28n-he .h2 {
-  font-family: "Rubik", "Mont Heavy", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Rubik", "Mont Heavy", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Kufi Arabic";
 }
 
 h3, .h3 {
-  font-family: "Mont Heavy", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Mont Heavy", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Kufi Arabic";
   color: #ffffff;
   font-weight: 900;
   font-size: 6vh;
   line-height: 0.83;
 }
 .i28n-he h3, .i28n-he .h3 {
-  font-family: "Rubik", "Mont Heavy", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Rubik", "Mont Heavy", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Kufi Arabic";
 }
 
 h4, .h4 {
-  font-family: "Mont Heavy", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Mont Heavy", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Kufi Arabic";
   color: #ffffff;
   font-weight: 900;
   font-size: 3vh;
   line-height: 1.67;
 }
 .i28n-he h4, .i28n-he .h4 {
-  font-family: "Rubik", "Mont Heavy", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Rubik", "Mont Heavy", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Kufi Arabic";
 }
 
 h5, .h5 {
-  font-family: "Mont Heavy", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Mont Heavy", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Kufi Arabic";
   color: #ffffff;
   font-weight: 900;
   font-size: 5vh;
   line-height: 1.2;
 }
 .i28n-he h5, .i28n-he .h5 {
-  font-family: "Rubik", "Mont Heavy", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Rubik", "Mont Heavy", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Kufi Arabic";
 }
 
 .cash-in-color .tl1, .system-color .tl1 {
-  font-family: "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
   font-weight: 700;
   font-size: 5vh;
   line-height: 1.2;
   color: #0e4160;
 }
 .museo .cash-in-color .tl1, .museo .system-color .tl1 {
-  font-family: "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
 }
 
 .cash-out-color .tl1 {
-  font-family: "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
   font-weight: 700;
   font-size: 5vh;
   line-height: 1.2;
   color: #403c51;
 }
 .museo .cash-out-color .tl1 {
-  font-family: "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
 }
 
 .cash-in-color .tl2, .system-color .tl2 {
-  font-family: "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
   font-weight: 700;
   font-size: 3vh;
   line-height: 0.8;
   color: #0e4160;
 }
 .museo .cash-in-color .tl2, .museo .system-color .tl2 {
-  font-family: "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
 }
 
 .cash-out-color .tl2 {
-  font-family: "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
   font-weight: 700;
   font-size: 3vh;
   line-height: 0.8;
   color: #ffffff;
 }
 .museo .cash-out-color .tl2 {
-  font-family: "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
 }
 
 .cash-in-color .d1, .system-color .d1 {
-  font-family: "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
   font-weight: 500;
   font-size: 4vh;
   line-height: 1.25;
   color: #0e4160;
 }
 .museo .cash-in-color .d1, .museo .system-color .d1 {
-  font-family: "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
 }
 
 .cash-out-color .d1 {
@@ -308,51 +314,51 @@ h5, .h5 {
   color: #403c51;
 }
 .museo .cash-out-color .d1 {
-  font-family: "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
 }
 
 .cash-in-color .d2, .system-color .d2 {
-  font-family: "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
   font-weight: 500;
   font-size: 3vh;
   line-height: 1.33;
   color: #0e4160;
 }
 .museo .cash-in-color .d2, .museo .system-color .d2 {
-  font-family: "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
 }
 
 .cash-out-color .d2 {
-  font-family: "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
   font-weight: 500;
   font-size: 3vh;
   line-height: 1.33;
   color: #403c51;
 }
 .museo .cash-out-color .d2 {
-  font-family: "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
 }
 
 .cash-in-color .d2b, .system-color .d2b {
-  font-family: "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
   font-weight: 700;
   font-size: 3vh;
   line-height: 0.8;
   color: #0e4160;
 }
 .museo .cash-in-color .d2b, .museo .system-color .d2b {
-  font-family: "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
 }
 
 .cash-out-color .d2b {
-  font-family: "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
   font-weight: 700;
   font-size: 3vh;
   line-height: 0.8;
   color: #403c51;
 }
 .museo .cash-out-color .d2b {
-  font-family: "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
 }
 
 .cash-in-color .m1, .system-color .m1 {
@@ -400,7 +406,7 @@ button {
 }
 
 .round-progress-button {
-  font-family: "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
   font-weight: 700;
   font-size: 3vh;
   line-height: 0.8;
@@ -414,7 +420,7 @@ button {
   border-radius: 5vh;
 }
 .museo .round-progress-button {
-  font-family: "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
 }
 .cash-in-color .round-progress-button, .system-color .round-progress-button {
   background-color: #0e4160;
@@ -439,7 +445,7 @@ button {
 }
 
 .progress-button {
-  font-family: "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
   font-weight: 700;
   font-size: 3vh;
   line-height: 0.8;
@@ -454,7 +460,7 @@ button {
   background-color: #ffffff;
 }
 .museo .progress-button {
-  font-family: "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
 }
 .cash-in-color .progress-button, .system-color .progress-button {
   color: #0e4160;
@@ -485,7 +491,7 @@ button {
 }
 
 .filled-progress-button {
-  font-family: "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
   font-weight: 700;
   font-size: 3vh;
   line-height: 0.8;
@@ -501,7 +507,7 @@ button {
   min-width: 16vh;
 }
 .museo .filled-progress-button {
-  font-family: "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
 }
 .cash-in-color .filled-progress-button, .system-color .filled-progress-button {
   background-color: #0e4160;
@@ -520,7 +526,7 @@ button {
 }
 
 .bordered-progress-button {
-  font-family: "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
   font-weight: 700;
   font-size: 3vh;
   line-height: 0.8;
@@ -535,7 +541,7 @@ button {
   background-color: transparent;
 }
 .museo .bordered-progress-button {
-  font-family: "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
+  font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
 }
 .cash-in-color .bordered-progress-button, .system-color .bordered-progress-button {
   border: 3px solid #0e4160;
@@ -2118,4 +2124,8 @@ footer {
   bottom: 0;
 }
 
+img.resize {
+  max-width:50%;
+  max-hight:50%;
+}
 /*# sourceMappingURL=main.css.map */
