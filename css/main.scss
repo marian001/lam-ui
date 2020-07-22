@@ -73,24 +73,27 @@ footer {
 }
 
 .cash-in-color {
+  background-color: $amazonite;
 }
 
 .system-color {
   background-color: $concrete;
   h2,
   h3 {
-    color: $white;
+    color: $sapphire;
   }
 }
 
 .cash-out-color {
+  background-color: $salmon;
 }
 
 .system-color {
+  background-color: $concrete;
 }
 
 .system-color h3 {
-  color: $white;
+  color: $sapphire;
 }
 
 .hidden {
@@ -155,7 +158,7 @@ footer {
 
 .cash-in-color .mainv .actions .button-no {
   border: 2px solid $sapphire;
-  color: $white;
+  color: $sapphire;
   @include Tagline-2;
 }
 
@@ -163,7 +166,7 @@ footer {
 .cash-in-color .mainv .actions .button-no:active {
   border: 2px solid $white;
   background: $white;
-  color: $white;
+  color: $sapphire;
   @include Tagline-2;
 }
 
@@ -600,14 +603,8 @@ footer {
   height: 40vh;
 }
 
-.cash-out-box {
+.cash-out-box, .cash-in-box {
   margin: auto;
-  background: rgba(22, 126, 175, 0.5) 0% 0% no-repeat padding-box;
-}
-
-.cash-in-box {
-  margin: auto;
-  background: rgba(123, 45, 129, 0.5) 0% 0% no-repeat padding-box;
 }
 
 .choose_coin_state header {
@@ -617,7 +614,7 @@ footer {
 
 .choose_coin_state footer {
   min-height: 19vh;
-  padding: 6vh 0vh;
+  padding: 6vh;
   box-sizing: border-box;
 }
 
@@ -709,12 +706,6 @@ footer {
   margin-left: auto;
 }
 
-#coin-redeem-button {
-  margin-top: -23px;
-  padding: 0.3vh 4.5vh 1vh 4.5vh;
-  border-radius: 90px 0px 0px 90px;
-}
-
 .crypto-buttons {
   box-sizing: border-box;
   display: flex;
@@ -722,6 +713,7 @@ footer {
 }
 
 .crypto-buttons .choose-coin-button:first-child {
+  padding-left: 1vh;
   &:after {
     position: absolute;
     content: '';
@@ -732,15 +724,8 @@ footer {
   }
 }
 
-.crypto-buttons .choose-coin-button:last-child {
-  border-radius: 0px 90px 90px 0px;
-  padding-right: 7vh;
-}
-
 .choose-coin-button {
-  max-width: 200px;
-  padding: 2vh 4.5vh 2vh 4.5vh;
-  background-color: rgba(0, 0, 0, 0.3);
+  padding: 0 4.5vh 0 4.5vh;
   justify-content: center;
   display: flex;
   flex-direction: column;
@@ -762,7 +747,7 @@ footer {
 }
 
 .choose-coin-cash-in .choose-coin-button {
-  color: $white;
+  color: $sapphire;
 }
 
 .choose-coin-button svg {
@@ -770,8 +755,8 @@ footer {
   opacity: 0;
 }
 
-.choose-coin-button-active div{
-  opacity: 1 !important;
+.choose-coin-button-active svg {
+  opacity: 1;
 }
 
 .choose-coin-cash-in .choose-coin-button-active svg path {
@@ -789,7 +774,6 @@ footer {
 }
 
 .bg-image {
-  background: url("images/background/Rectangle532.png");
   position: fixed;
   width: 100%;
   top:0;
@@ -1113,7 +1097,7 @@ footer {
     border: none;
     text-align: center;
     color: $white;
-    background-color: $white;
+    background-color: $sapphire;
     margin-left: 28vw;
   }
   .connect-wrapper {

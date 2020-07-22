@@ -148,7 +148,6 @@ button {
 }
 
 .inner-circle-button {
-  color: $white;
   height: 36vh;
   width: 36vh;
   border-radius: 40vh;
@@ -162,17 +161,11 @@ button {
 }
 
 .cash-in-color .inner-circle-button {
-  background: #823385 0% 0% no-repeat padding-box;
-  box-shadow: 0px 0px 40px #300058A7;
-  border: 2px solid #8A4F8C;
-  opacity: 1;
+  color: $sapphire;
 }
 
 .cash-out-color .inner-circle-button {
-  background: #167EAF 0% 0% no-repeat padding-box;
-  box-shadow: 0px 0px 40px #300058A7;
-  border: 2px solid #288AB8;
-  opacity: 1;
+  color: $purple-grey;
 }
 
 .cash-in-color .circle-button.active .inner-circle-button,
@@ -270,6 +263,7 @@ button {
   padding: 0 2.5vw;
   height: 8vh;
   min-width: 5vw;
+  background-color: #ffffff;
   border-radius: 2vh;
   display: flex;
   justify-content: center;

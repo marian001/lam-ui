@@ -351,11 +351,11 @@ function setupCoinsButtons() {
 
   coins.forEach(function (coin) {
     var activeClass = coin.cryptoCode === currentCryptoCode ? 'choose-coin-button-active' : '';
-    var el = '<div class="choose-coin-button h4 coin-' + coin.cryptoCode.toLowerCase() + ' ' + activeClass + '" data-crypto-code="' + coin.cryptoCode + '">\n      ' + coin.display + '\n        <div style="\n          background-color: white;\n          width: 100%;\n          height: 6px;\n          border-radius: 5px;\n          opacity: 0;\n      "></div>\n    </div>';
+    var el = '<div class="choose-coin-button h4 coin-' + coin.cryptoCode.toLowerCase() + ' ' + activeClass + '" data-crypto-code="' + coin.cryptoCode + '">\n      ' + coin.display + '\n      <span class="choose-coin-svg-wrapper">\n        <svg xmlns="http://www.w3.org/2000/svg" width="52" height="8" viewBox="0 0 52 8">\n          <path fill="none" fill-rule="evenodd" stroke="#FFF" stroke-linecap="round" stroke-width="8" d="M4 4h44"/>\n        </svg>\n      </span>\n    </div>';
     $('.crypto-buttons').append(el);
   });
   if (showMoreButton) {
-    $('.crypto-buttons').append('\n      <div class="choose-coin-button h4" data-more="true">\n        <div id="crypto-dropdown-toggle" data-more="true">\n          <span class="js-i18n">More</span>\n          <div style="\n            background-color: white;\n            width: 100%;\n            height: 6px;\n            border-radius: 5px;\n            opacity: 0;\n        "></div>\n        </div>\n        <div id="cryptos" class="dropdown hide"></div>\n      </div>\n    ');
+    $('.crypto-buttons').append('\n      <div class="choose-coin-button h4" data-more="true">\n        <div id="crypto-dropdown-toggle" data-more="true">\n          <span class="js-i18n">More</span>\n          <span class="choose-coin-svg-wrapper">\n            <svg xmlns="http://www.w3.org/2000/svg" width="52" height="8" viewBox="0 0 52 8">\n              <path fill="none" fill-rule="evenodd" stroke="#FFF" stroke-linecap="round" stroke-width="8" d="M4 4h44"/>\n            </svg>\n          </span>\n        </div>\n        <div id="cryptos" class="dropdown hide"></div>\n      </div>\n    ');
     dropdownCoins.forEach(function (coin) {
       var el = '<button class="h4 sapphire button small-action-button coin-' + coin.cryptoCode.toLowerCase() + '"\n        data-crypto-code="' + coin.cryptoCode + '">' + coin.display + '</button>';
       $('#cryptos').append(el);
