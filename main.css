@@ -256,7 +256,7 @@ h5, .h5 {
   font-weight: 700;
   font-size: 5vh;
   line-height: 1.2;
-  color: #0e4160;
+  color: #66B0DE;
 }
 .museo .cash-in-color .tl1, .museo .system-color .tl1 {
   font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
@@ -267,7 +267,7 @@ h5, .h5 {
   font-weight: 700;
   font-size: 5vh;
   line-height: 1.2;
-  color: #403c51;
+  color: #66B0DE;
 }
 .museo .cash-out-color .tl1 {
   font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
@@ -278,7 +278,7 @@ h5, .h5 {
   font-weight: 700;
   font-size: 3vh;
   line-height: 0.8;
-  color: #0e4160;
+  color: #66B0DE;
 }
 .museo .cash-in-color .tl2, .museo .system-color .tl2 {
   font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
@@ -300,7 +300,7 @@ h5, .h5 {
   font-weight: 500;
   font-size: 4vh;
   line-height: 1.25;
-  color: #0e4160;
+  color: #66B0DE;
 }
 .museo .cash-in-color .d1, .museo .system-color .d1 {
   font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
@@ -311,7 +311,7 @@ h5, .h5 {
   font-weight: 500;
   font-size: 4vh;
   line-height: 1.25;
-  color: #403c51;
+  color: #66B0DE;
 }
 .museo .cash-out-color .d1 {
   font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
@@ -322,7 +322,7 @@ h5, .h5 {
   font-weight: 500;
   font-size: 3vh;
   line-height: 1.33;
-  color: #0e4160;
+  color: #66B0DE;
 }
 .museo .cash-in-color .d2, .museo .system-color .d2 {
   font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
@@ -333,7 +333,7 @@ h5, .h5 {
   font-weight: 500;
   font-size: 3vh;
   line-height: 1.33;
-  color: #403c51;
+  color: #66B0DE;
 }
 .museo .cash-out-color .d2 {
   font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
@@ -344,7 +344,7 @@ h5, .h5 {
   font-weight: 700;
   font-size: 3vh;
   line-height: 0.8;
-  color: #0e4160;
+  color: #66B0DE;
 }
 .museo .cash-in-color .d2b, .museo .system-color .d2b {
   font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
@@ -355,7 +355,7 @@ h5, .h5 {
   font-weight: 700;
   font-size: 3vh;
   line-height: 0.8;
-  color: #403c51;
+  color: #66B0DE;
 }
 .museo .cash-out-color .d2b {
   font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
@@ -365,28 +365,28 @@ h5, .h5 {
   font-family: BPmono;
   font-size: 4vh;
   line-height: 1;
-  color: #0e4160;
+  color: #66B0DE;
 }
 
 .cash-out-color .m1 {
   font-family: BPmono;
   font-size: 4vh;
   line-height: 1;
-  color: #403c51;
+  color: #66B0DE;
 }
 
 .cash-in-color .m2, .system-color .m2 {
   font-family: BPmono;
   font-size: 3vh;
   line-height: 1;
-  color: #0e4160;
+  color: #66B0DE;
 }
 
 .cash-out-color .m2 {
   font-family: BPmono;
   font-size: 3vh;
   line-height: 1;
-  color: #403c51;
+  color: #66B0DE;
 }
 
 .viewport .white {
@@ -398,11 +398,11 @@ button {
 }
 
 .cash-in-color #actions-scroll .round-progress-button:active svg path, .cash-in-color #actions-scroll .round-progress-button .active svg path {
-  fill: #0e4160;
+  fill: #66B0DE;
 }
 
 .cash-out-color #actions-scroll .round-progress-button:active svg path, .cash-out-color #actions-scroll .round-progress-button .active svg path {
-  fill: #403c51;
+  fill: #66B0DE;
 }
 
 .round-progress-button {
@@ -423,25 +423,25 @@ button {
   font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
 }
 .cash-in-color .round-progress-button, .system-color .round-progress-button {
-  background-color: #0e4160;
+  background-color: #66B0DE;
 }
 .cash-out-color .round-progress-button {
-  background-color: #403c51;
+  background-color: #66B0DE;
 }
 .round-progress-button:active, .round-progress-button .active {
   background-color: #ffffff;
 }
 .cash-in-color .round-progress-button:active, .system-color .round-progress-button:active, .cash-in-color .round-progress-button .active, .system-color .round-progress-button .active {
-  color: #0e4160;
+  color: #66B0DE;
 }
 .cash-out-color .round-progress-button:active, .cash-out-color .round-progress-button .active {
-  color: #403c51;
+  color: #66B0DE;
 }
 .cash-in-color .round-progress-button:disabled, .system-color .round-progress-button:disabled {
   background-color: #2cb9ac;
 }
 .cash-out-color .round-progress-button:disabled {
-  background-color: #cb6560;
+  background-color: #ffffff;
 }
 
 .progress-button {
@@ -463,31 +463,31 @@ button {
   font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
 }
 .cash-in-color .progress-button, .system-color .progress-button {
-  color: #0e4160;
+  color: #66B0DE;
 }
 .cash-out-color .progress-button {
-  color: #403c51;
+  color: #66B0DE;
 }
 .progress-button:active, .progress-button .active {
   color: #ffffff;
 }
 .cash-in-color .progress-button:active, .system-color .progress-button:active, .cash-in-color .progress-button .active, .system-color .progress-button .active {
-  background-color: #0e4160;
+  background-color: #66B0DE;
 }
 .cash-out-color .progress-button:active, .cash-out-color .progress-button .active {
-  background-color: #403c51;
+  background-color: #66B0DE;
 }
 .cash-in-color .progress-button:disabled, .system-color .progress-button:disabled {
   background-color: #2cb9ac;
 }
 .cash-out-color .progress-button:disabled {
-  background-color: #cb6560;
+  background-color: #ffffff;
 }
 .cash-in-color .progress-button:disabled, .system-color .progress-button:disabled {
   color: #37e8d7;
 }
 .cash-out-color .progress-button:disabled {
-  color: #fe7f78;
+  color: #aaaaaa;
 }
 
 .filled-progress-button {
@@ -510,19 +510,19 @@ button {
   font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
 }
 .cash-in-color .filled-progress-button, .system-color .filled-progress-button {
-  background-color: #0e4160;
+  background-color: #66B0DE;
 }
 .cash-out-color .filled-progress-button {
-  background-color: #403c51;
+  background-color: #66B0DE;
 }
 .filled-progress-button:active, .filled-progress-button .active {
   background-color: #ffffff;
 }
 .cash-in-color .filled-progress-button:active, .system-color .filled-progress-button:active, .cash-in-color .filled-progress-button .active, .system-color .filled-progress-button .active {
-  color: #0e4160;
+  color: #66B0DE;
 }
 .cash-out-color .filled-progress-button:active, .cash-out-color .filled-progress-button .active {
-  color: #403c51;
+  color: #66B0DE;
 }
 
 .bordered-progress-button {
@@ -544,16 +544,16 @@ button {
   font-family: "AvenirLTPro", "MuseoSans", "Rubik", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
 }
 .cash-in-color .bordered-progress-button, .system-color .bordered-progress-button {
-  border: 3px solid #0e4160;
+  border: 3px solid #66B0DE;
 }
 .cash-out-color .bordered-progress-button {
-  border: 3px solid #403c51;
+  border: 3px solid #66B0DE;
 }
 .cash-in-color .bordered-progress-button, .system-color .bordered-progress-button {
-  color: #0e4160;
+  color: #66B0DE;
 }
 .cash-out-color .bordered-progress-button {
-  color: #403c51;
+  color: #66B0DE;
 }
 .bordered-progress-button:active, .bordered-progress-button .active {
   border-color: transparent;
@@ -603,36 +603,36 @@ button {
 
 .cash-in-color .circle-button.active .inner-circle-button,
 .cash-in-color .circle-button:active .inner-circle-button {
-  background-color: #0e4160;
+  background-color: #66B0DE;
   color: #ffffff;
 }
 
 .cash-in-color .circle-button.active,
 .cash-in-color .circle-button:active {
-  background-color: #0e4160;
+  background-color: #66B0DE;
   color: #ffffff;
 }
 
 .cash-out-color .circle-button.active .inner-circle-button,
 .cash-out-color .circle-button:active .inner-circle-button {
-  background-color: #403c51;
+  background-color: #66B0DE;
   color: #ffffff;
 }
 
 .cash-out-color .circle-button.active,
 .cash-out-color .circle-button:active {
-  background-color: #403c51;
+  background-color: #66B0DE;
   color: #ffffff;
 }
 
 .cash-out-color .circle-button:disabled .inner-circle-button {
-  background-color: #cb6560;
-  color: #fe7f78;
+  background-color: #ffffff;
+  color: #aaaaaa;
 }
 
 .cash-out-color .circle-button:disabled {
-  background-color: #cb6560;
-  color: #fe7f78;
+  background-color: #ffffff;
+  color: #aaaaaa;
 }
 
 .action-button {
@@ -650,19 +650,19 @@ button {
 
 .cash-in-color .action-button.active,
 .cash-in-color .action-button:active {
-  background-color: #0e4160;
+  background-color: #66B0DE;
   color: #ffffff;
 }
 
 .cash-out-color .action-button.active,
 .cash-out-color .action-button:active {
-  background-color: #403c51;
+  background-color: #66B0DE;
   color: #ffffff;
 }
 
 .cash-out-color .action-button:disabled {
-  background-color: #cb6560;
-  color: #fe7f78;
+  background-color: #ffffff;
+  color: #aaaaaa;
 }
 
 .filled-action-button {
@@ -678,25 +678,25 @@ button {
 }
 
 .cash-in-color .filled-action-button, .system-color .filled-action-button {
-  background-color: #0e4160;
+  background-color: #66B0DE;
   color: #ffffff;
 }
 
 .cash-out-color .filled-action-button {
-  background-color: #403c51;
+  background-color: #66B0DE;
   color: #ffffff;
 }
 
 .cash-in-color .filled-action-button.active, .system-color .filled-action-button.active,
 .cash-in-color .filled-action-button:active, .system-color .filled-action-button:active {
   background-color: #ffffff;
-  color: #0e4160;
+  color: #66B0DE;
 }
 
 .cash-out-color .filled-action-button.active,
 .cash-out-color .filled-action-button:active {
   background-color: #ffffff;
-  color: #403c51;
+  color: #66B0DE;
 }
 
 .small-action-button {
@@ -725,7 +725,7 @@ button {
 
 .cash-out-color .key.active,
 .cash-out-color .key:active {
-  background-color: #cb6560;
+  background-color: #ffffff;
 }
 
 button div {
@@ -748,11 +748,11 @@ footer .filled-progress-button:after, footer .bordered-progress-button:after {
 }
 
 .cash-in-color .sk-three-bounce .sk-child, .system-color .sk-three-bounce .sk-child {
-  background-color: #0e4160;
+  background-color: #66B0DE;
 }
 
 .cash-out-color .sk-three-bounce .sk-child {
-  background-color: #403c51;
+  background-color: #66B0DE;
 }
 
 /* The MIT License (MIT)
@@ -941,11 +941,11 @@ footer {
 }
 
 .sapphire {
-  color: #0e4160;
+  color: #66B0DE;
 }
 
 .purple-grey {
-  color: #403c51;
+  color: #66B0DE;
 }
 
 .system-color {
@@ -975,7 +975,7 @@ footer {
   margin-top: 0;
   margin-bottom: 0;
   padding-left: 2vh;
-  border-left: 2px solid #0e4160;
+  border-left: 2px solid #66B0DE;
 }
 
 .mainv .actions .button-yes {
@@ -993,8 +993,8 @@ footer {
 }
 
 .cash-out-color .mainv .actions .button-yes {
-  border: 2px solid #403c51;
-  background: #403c51;
+  border: 2px solid #66B0DE;
+  background: #66B0DE;
   color: #ffffff;
   font-family: "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
   font-weight: 700;
@@ -1006,8 +1006,8 @@ footer {
 }
 
 .cash-out-color .mainv .actions .button-no {
-  border: 2px solid #403c51;
-  color: #403c51;
+  border: 2px solid #66B0DE;
+  color: #66B0DE;
   font-family: "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
   font-weight: 700;
   font-size: 3vh;
@@ -1021,7 +1021,7 @@ footer {
 .cash-out-color .mainv .actions .button-no:active {
   border: 2px solid #ffffff;
   background: #ffffff;
-  color: #403c51;
+  color: #66B0DE;
   font-family: "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
   font-weight: 700;
   font-size: 3vh;
@@ -1033,8 +1033,8 @@ footer {
 }
 
 .cash-in-color .mainv .actions .button-yes {
-  border: 2px solid #0e4160;
-  background: #0e4160;
+  border: 2px solid #66B0DE;
+  background: #66B0DE;
   color: #ffffff;
   font-family: "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
   font-weight: 700;
@@ -1046,7 +1046,7 @@ footer {
 }
 
 .cash-in-color .mainv .actions .button-no {
-  border: 2px solid #0e4160;
+  border: 2px solid #66B0DE;
   color: #ffffff;
   font-family: "Rubik", "MuseoSans", "Noto Sans CJK CS", "Noto Sans CJK JP", "Noto Sans CJK KR", "Noto Sans CJK TC", "Noto Sans Hebrew", "Noto Kufi Arabic";
   font-weight: 700;
@@ -1083,7 +1083,7 @@ footer {
 }
 
 .cash-out-color .contacts {
-  background-color: #cb6560;
+  background-color: #ffffff;
 }
 .cash-out-color .contacts .d2 {
   color: #ffffff;
@@ -1422,7 +1422,7 @@ footer {
 }
 
 .cash-out-color .phone-separator {
-  border-top: 1px solid #cb6560;
+  border-top: 1px solid #ffffff;
   width: 34vh;
 }
 
@@ -1672,7 +1672,7 @@ footer {
 }
 
 .choose-coin-cash-in .choose-coin-button-active svg path {
-  stroke: #0e4160;
+  stroke: #66B0DE;
 }
 
 .choose-coin-svg-wrapper {
@@ -1762,7 +1762,7 @@ footer {
 }
 
 .cash-out-color .round-progress-button:disabled .up-arrow-svg, .cash-out-color .round-progress-button:disabled .down-arrow-svg {
-  fill: #fe7f78;
+  fill: #aaaaaa;
 }
 
 .or {
